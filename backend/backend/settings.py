@@ -11,7 +11,7 @@ DEBUG = True
 
 # Кроме того, в список ALLOWED_HOSTS в файле settings.py необходимо добавить
 # IP-адрес и (если есть) доменное имя вашего сервера.
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['127.0.0.1','89.169.169.185', 'taski.codeexp.ru']
 
 
 # Application definition
